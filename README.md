@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AaronCou/osTicket-Prerequisites-and-Installation)
   - [Configuring Active Directory within Azure VMs](https://github.com/AaronCou/Configuring-Active-Directory-within-Azure-VMs)
 
